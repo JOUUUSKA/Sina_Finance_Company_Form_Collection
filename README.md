@@ -9,7 +9,7 @@ pip install  -r requirements.txt
 
 # 二、spider_toolsbox在github的地址：
 ### https://github.com/JOUUUSKA/spider_toolsbox.git
-可以给作者点个star
+觉得项目不错，记得给作者点个star~
 
 ```python  
 pip install spider_toolsbox  
